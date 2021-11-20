@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **madanakrishnan.i@gmail.com**
 
-- ⚡ Fun fact **I am interested in Anime, Manga, Video Games, History. Determined to learn to play the guitar (The F chord is hard!(@_@))).**
+- ⚡ Fun fact **I am interested in Anime, Manga, Video Games, History. Determined to play the guitar (The F chord is hard!(@_@))).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
