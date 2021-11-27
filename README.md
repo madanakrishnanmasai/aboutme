@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madanakrishnan</h1>
-<h3 align="center">I got my first computer when I was in the second standard. My first instinct was to download games; my first consequence was the viruses that came with it. For the next 7 years, this computer became my portal into the world of technology. Growing up, you could always find me tinkering with a computer or buried in an issue of Digit. So, it would sound surprising that I ended up working in construction. What is not so surprising is that, eventually, I realized I needed to seriously work towards building a lifelong career in tech. This led me to join a full-time programming bootcamp where I have learned so many new skills like Javascript, MERN stack, and data structures and algorithms. I am now in the process of transitioning into full stack web development, and I'm looking forward to learn and make my mark in the tech world.</h3>
+<h3 align="center">A highly motivated and progress-focused full-stack developer
+              (MERN) with a high level of initiative and dependability. Good at
+              collaborating and communicating; believe in continuous learning.
+              Looking forward to honing the current skills with the new
+              developments in the field of technology.</h3>
 
 - 📫 How to reach me **madanakrishnan.i@gmail.com**
 
