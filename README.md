@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/pair-programming-concept-illustration_114360-2170.jpg" height="175px"/></a>
+<p align="center" href="#"><img width="50%" height="auto" src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madanakrishnan</h1>
 <h3 align="center">A highly motivated and progress-focused full-stack developer
